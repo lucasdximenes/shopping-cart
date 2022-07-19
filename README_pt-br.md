@@ -15,6 +15,18 @@ Da sigla em inglês _Application Programming Interface_, uma API é um ponto de 
 
 Nesse projeto foi utilizado o desenvolvimento orientado a testes, o famoso TDD (Test Driven Development)! Que ajuda garantir um código de qualidade, percebendo os casos de uso da sua aplicação e garantindo que ela está funcionando da maneira correta! 🚀
 
+Também foi utilizados conhecimentos em:
+
+- Local storage
+- JSON
+- HOFs
+- Promises
+- Async/Await
+- HTML
+- CSS
+- JavaScript
+- Jest
+
 </details>
 
 # Orientações

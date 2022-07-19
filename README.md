@@ -15,6 +15,18 @@ From the acronym _Application Programming Interface_, an API is a point of conta
 
 Test-driven development was used in this project, the famous TDD (Test Driven Development)! Which helps ensure quality code, understanding your application's use cases and ensuring it's working correctly! 🚀
 
+Knowledge was also used in:
+
+- Local storage
+- JSON
+- HOFs
+- promises
+- Async/Await
+- HTML
+- CSS
+- JavaScript
+- Jest
+
 </details>
 
 # guidelines
